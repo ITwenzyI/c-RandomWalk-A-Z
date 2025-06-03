@@ -10,6 +10,8 @@
 #define RIGHT 3
 #define NUM_DIRS 4
 
+//neu
+
 // Random Walk from A to Z on a pitch with points
 
 void showpitch(char pitch[10][10]) {
